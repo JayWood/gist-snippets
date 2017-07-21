@@ -12,6 +12,8 @@
 
 Integrate your GitHub Gists into your posts with a simple interface.
 
+This plugin is designed to give users the ability to submit GIST snippets to GitHub directly from the editor. While also allowing users to search/select gists to insert into their post content.
+
 ## Installation ##
 
 ### Manual Installation ###
