@@ -1,0 +1,17 @@
+{
+  "generator-plugin-wp": {
+    "name": "Gist Snippets",
+    "homepage": "http://plugish.com",
+    "description": "Integrate your GitHub Gists into your posts with a simple interface.",
+    "version": "0.1.0",
+    "author": "JayWood",
+    "authoremail": "jjwood2004@gmail.com",
+    "authorurl": "http://plugish.com",
+    "license": "GPLv2",
+    "slug": "gist-snippets",
+    "classname": "Gist_Snippets",
+    "classprefix": "GS_",
+    "prefix": "gist_snippets",
+    "year": 2017
+  }
+}

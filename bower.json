@@ -1,0 +1,18 @@
+{
+  "name": "gist-snippets",
+  "description": "Integrate your GitHub Gists into your posts with a simple interface.",
+  "license": "GPLv2",
+  "authors": [
+    "JayWood"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
